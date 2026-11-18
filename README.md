@@ -1,4 +1,4 @@
-# machineeconomyobservatory-com
+# Machine Economy Observatory
 
 <!-- API-EVANGELIST-PROVENANCE:BEGIN -->
 > ### About this repository
@@ -64,5 +64,120 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-machineeconomyobservatory-com is a company surfaced via the API Evangelist harvest backlog (source: mcp-registry) and added to the network as a stub for full-pipeline profiling.
-- https://machineeconomyobservatory.com/
+Machine Economy Observatory (MEO) is a research and data platform that observes, documents, and makes legible the emerging machine economy. It provides read‑only pre‑flight APIs for machines to discover services, access evidence, and understand autonomous agent interactions. The observatory publishes open data, OpenAPI specifications, and llms.txt resources to enable developers and researchers to explore machine‑driven economic activity.
+
+**Areas:** Company · Machine Economy · Data Platform · OpenAPI · Research
+
+## Machine Economy Observatory on APIs.io
+
+Everything profiled for Machine Economy Observatory is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/machineeconomyobservatory-com/](https://apis.io/providers/machineeconomyobservatory-com/)** — or go straight to one of the APIs or properties below.
+
+### APIs (9)
+
+- [Machine Economy Observatory A2a API](https://apis.io/apis/machineeconomyobservatory-com/machineeconomyobservatory-com-a2a-api/) — The A2a API from Machine Economy Observatory — 1 operation(s) for a2a.
+- [Machine Economy Observatory Agent Declaration API](https://apis.io/apis/machineeconomyobservatory-com/machineeconomyobservatory-com-agent-declaration-api/) — The Agent Declaration API from Machine Economy Observatory — 1 operation(s) for agent declaration.
+- [Machine Economy Observatory Health API](https://apis.io/apis/machineeconomyobservatory-com/machineeconomyobservatory-com-health-api/) — The Health API from Machine Economy Observatory — 1 operation(s) for health.
+- [Machine Economy Observatory Llms.txt API](https://apis.io/apis/machineeconomyobservatory-com/machineeconomyobservatory-com-llms-txt-api/) — The Llms.txt API from Machine Economy Observatory — 1 operation(s) for llms.txt.
+- [Machine Economy Observatory MCP API](https://apis.io/apis/machineeconomyobservatory-com/machineeconomyobservatory-com-mcp-api/) — The Mcp API from Machine Economy Observatory — 1 operation(s) for mcp.
+- [Machine Economy Observatory Openapi.json API](https://apis.io/apis/machineeconomyobservatory-com/machineeconomyobservatory-com-openapi-json-api/) — The Openapi.json API from Machine Economy Observatory — 1 operation(s) for openapi.json.
+- [Machine Economy Observatory Preflight API](https://apis.io/apis/machineeconomyobservatory-com/machineeconomyobservatory-com-preflight-api/) — The Preflight API from Machine Economy Observatory — 1 operation(s) for preflight.
+- [Machine Economy Observatory Robots.txt API](https://apis.io/apis/machineeconomyobservatory-com/machineeconomyobservatory-com-robots-txt-api/) — The Robots.txt API from Machine Economy Observatory — 1 operation(s) for robots.txt.
+- [Machine Economy Observatory .well Known API](https://apis.io/apis/machineeconomyobservatory-com/machineeconomyobservatory-com-well-known-api/) — The .well Known API from Machine Economy Observatory — 4 operation(s) for .well known.
+
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### Agentic access (1)
+
+Which operations an agent can call, which act, and which need a human in the loop.
+
+- [Machine Economy Observatory Agentic Access](https://apis.io/agentic-access/machineeconomyobservatory-com/machineeconomyobservatory-com-agentic-access/)
+
+#### JSON Schema (2)
+
+The data models the API reads and writes.
+
+- [PreflightInput](https://apis.io/schemas/machineeconomyobservatory-com/machineeconomyobservatory-com-preflight-input/)
+- [PreflightResult](https://apis.io/schemas/machineeconomyobservatory-com/machineeconomyobservatory-com-preflight-result/)
+
+#### JSON-LD (1)
+
+Linked-data contexts for the provider's vocabulary.
+
+- [Machineeconomyobservatory Com Context](https://apis.io/jsonld/machineeconomyobservatory-com/machineeconomyobservatory-com-context/)
+
+#### Governance rules (1)
+
+Spectral rulesets for the provider's contracts.
+
+- [Machine Economy Observatory API Rules](https://apis.io/rules/machineeconomyobservatory-com/machineeconomyobservatory-com-rules/)
+
+#### Security (1)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [Machine Economy Observatory Domain Security](https://apis.io/security/machineeconomyobservatory-com/machineeconomyobservatory-com-domain-security/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://machineeconomyobservatory.com/)
+- [API reference](https://api.machineeconomyobservatory.com/openapi.json)
+
+## API Evangelist rating
+
+**Kin Score 29.6** — thin · rubric 0.28.0 · scored 2026-11-17
+
+| Facet | Score |
+|---|---|
+| Discoverability | 62.5 |
+| Contract quality | 50.5 |
+| Contract governance | 79.1 |
+| Operational transparency | 0.0 |
+| Developer ergonomics | 13.6 |
+| Access clarity | 0.0 |
+
+**Agent readiness 39.7** — agent-ready (gated down from agent-native)
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | yes |
+| Agentic Access | unknown |
+| Reversibility Documented | — |
+| MCP Server | documented (partial credit) |
+| Auth Clarity | — |
+| Idempotency | — |
+| Error Semantics | verified |
+| OpenAPI Examples | partial |
+| Rate Limit Signal | — |
+| Event Surface Described | — |
+| Agent Skills | unknown |
+| Well Known Catalog | — |
+| Consent Identity | — |
+| Agent Card | conformant |
+| Dry Run Mode | — |
+| Delegated Identity | — |
+| Protected Resource Metadata | — |
+| Dynamic Client Registration | — |
+| Agentic Commerce | — |
+| Pagination Ratio | — |
+| Operation Distinctiveness | distinct |
+| MCP Tool Quality | na |
+
+**Regulatory alignment 4.9** — Horizontal (data, software, accessibility, platform)
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/machineeconomyobservatory-com/](https://apis.io/providers/machineeconomyobservatory-com/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for Machine Economy Observatory: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/machineeconomyobservatory-com/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
